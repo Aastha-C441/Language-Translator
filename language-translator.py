@@ -1,6 +1,3 @@
-# Python Project - Language Translator
-# Aastha, Ankita, Nancy, Vaishnavi
-
 from googletrans import Translator
 from tkinter import *
 
